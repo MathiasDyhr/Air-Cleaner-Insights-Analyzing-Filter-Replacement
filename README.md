@@ -48,9 +48,15 @@ The project follows a data science workflow:
 
 ## Example Results
 
+### Daily Average Power
+![Daily Average Power](results/plots/daily_average_power.png)
 The experiments showed that sensor data such as fan speed,
 power consumption, and environmental measurements can be
 used to detect filter degradation patterns.
+
+
+### Forecast Example
+![TimeGPT Forecast](results/plots/timegpt_forecast.png)
 
 Time-series forecasting models were tested to predict when
 filters should be replaced.
