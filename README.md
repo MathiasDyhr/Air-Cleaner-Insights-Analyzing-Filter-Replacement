@@ -50,6 +50,7 @@ The project follows a data science workflow:
 
 ### Filter Degradation Trend
 ![Filter degradation](Results/Plots/filter_degradation_curve.png)
+
 This plot shows how filter performance degrades as particle levels increase.
 The exponential curve indicates how quickly different purifier levels accumulate contamination.
 
@@ -60,7 +61,9 @@ The exponential curve indicates how quickly different purifier levels accumulate
 A TimeGPT model was used to forecast future power usage and detect anomalies in the sensor data.
 
 ### Sensor Signal with Rolling Mean
-![Sensor trend](results/plots/raw_sensor_trend.png)
+![Sensor trend](Results/Plots/raw_sensor_trend.png)
+
+
 
 ## Technologies Used
 
