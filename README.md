@@ -48,19 +48,19 @@ The project follows a data science workflow:
 
 ## Example Results
 
-### Daily Average Power
-![Daily Average Power](results/Plots/daily_average_power.png)
-The experiments showed that sensor data such as fan speed,
-power consumption, and environmental measurements can be
-used to detect filter degradation patterns.
+### Filter Degradation Trend
+![Filter degradation](results/plots/filter_degradation_curve.png)
+This plot shows how filter performance degrades as particle levels increase.
+The exponential curve indicates how quickly different purifier levels accumulate contamination.
 
 
 ### Forecast Example
 ![TimeGPT Forecast](Results/Plots/timegpt_forecast.png)
 
-Time-series forecasting models were tested to predict when
-filters should be replaced.
+A TimeGPT model was used to forecast future power usage and detect anomalies in the sensor data.
 
+### Sensor Signal with Rolling Mean
+![Sensor trend](results/plots/raw_sensor_trend.png)
 
 ## Technologies Used
 
