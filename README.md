@@ -92,5 +92,5 @@ To run the forecasting notebook you must provide your own API token.
 The full bachelor thesis describing the methodology,
 experiments and results can be found here:
 
-[Read the thesis](docs/bachelor_thesis.pdf)
+[Read the thesis](docs/Bachelor_Project.pdf)
 
