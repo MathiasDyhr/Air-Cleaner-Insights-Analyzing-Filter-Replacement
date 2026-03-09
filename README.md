@@ -56,7 +56,7 @@ used to detect filter degradation patterns.
 
 
 ### Forecast Example
-![TimeGPT Forecast](results/Plots/timegpt_forecast.png)
+![TimeGPT Forecast](Results/Plots/timegpt_forecast.png)
 
 Time-series forecasting models were tested to predict when
 filters should be replaced.
