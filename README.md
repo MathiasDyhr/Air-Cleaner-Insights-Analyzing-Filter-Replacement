@@ -1,6 +1,6 @@
 # Air Purifier Filter Replacement Prediction
 
-This project was developed as part of my Bachelor's thesis in Artificial Intelligence and Data at the Technical University of Denmark (DTU).
+This project was developed as part of my Bachelor's thesis in Artificial Intelligence and Data at the Technical University of Denmark (DTU), in collaboration with Longhi Air, an Indonesian manufacturer of air purifiers.
 
 The goal of the project was to analyze IoT sensor data from air purifiers and develop data-driven methods to predict when air filters should be replaced.
 
