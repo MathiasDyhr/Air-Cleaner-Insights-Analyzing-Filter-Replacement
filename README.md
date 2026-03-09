@@ -7,6 +7,14 @@ The goal of the project was to analyze IoT sensor data from air purifiers and de
 Replacing filters too early increases maintenance costs, while replacing them too late reduces purification performance. This project investigates whether sensor data can be used to detect filter degradation and predict optimal replacement timing.
 
 ---
+## Project context
+
+Bachelor's thesis – DTU
+
+Collaboration with Longhi Air (Indonesia)
+
+Focus: predictive maintenance using IoT sensor data
+
 ## Repository Structure
 
 - `data/` raw experimental datasets
