@@ -80,6 +80,12 @@ NumPy
 Jupyter Notebooks  
 Time-series forecasting (TimeGPT)
 
+## API Token
+
+The TimeGPT API token previously used in this project has been revoked and no longer works.
+
+API keys are intentionally not stored in this repository.  
+To run the forecasting notebook you must provide your own API token.
 
 ## Bachelor Thesis
 
