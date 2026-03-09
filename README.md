@@ -56,19 +56,19 @@ The project follows a data science workflow:
 ## Example Results
 
 ### Filter Degradation Trend
-![Filter degradation](Results/Plots/filter_degradation_curve.png)
+![Filter degradation](results/plots/filter_degradation_curve.png)
 
 This plot shows how filter performance degrades as particle levels increase.
 The exponential curve indicates how quickly different purifier levels accumulate contamination.
 
 
 ### Forecast Example
-![TimeGPT Forecast](Results/Plots/timegpt_forecast.png)
+![TimeGPT Forecast](results/plots/timegpt_forecast.png)
 
 A TimeGPT model was used to forecast future power usage and detect anomalies in the sensor data.
 
 ### Sensor Signal with Rolling Mean
-![Sensor trend](Results/Plots/raw_sensor_trend.png)
+![Sensor trend](results/plots/raw_sensor_trend.png)
 
 
 
