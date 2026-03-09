@@ -81,5 +81,10 @@ Jupyter Notebooks
 Time-series forecasting (TimeGPT)
 
 
+## Bachelor Thesis
 
+The full bachelor thesis describing the methodology,
+experiments and results can be found here:
+
+[Read the thesis](docs/bachelor_thesis.pdf)
 
