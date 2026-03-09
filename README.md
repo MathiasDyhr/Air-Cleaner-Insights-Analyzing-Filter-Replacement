@@ -49,7 +49,7 @@ The project follows a data science workflow:
 ## Example Results
 
 ### Filter Degradation Trend
-![Filter degradation](results/plots/filter_degradation_curve.png)
+![Filter degradation](Results/Plots/filter_degradation_curve.png)
 This plot shows how filter performance degrades as particle levels increase.
 The exponential curve indicates how quickly different purifier levels accumulate contamination.
 
