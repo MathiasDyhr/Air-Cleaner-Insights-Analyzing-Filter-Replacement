@@ -34,17 +34,35 @@ Files included:
 
 ---
 
-# Project Workflow
+## Methodology
 
-The project consists of several steps:
+The project follows a data science workflow:
 
-### 1. Data preprocessing
-Cleaning and preparing raw sensor data.
+1. Data collection from air purifier monitoring dashboard
+2. Data preprocessing and cleaning
+3. Feature analysis of sensor variables
+4. Time-series modeling and forecasting
+5. Evaluation of filter degradation patterns
 
-Notebook:
 
 
+## Example Results
 
+The experiments showed that sensor data such as fan speed,
+power consumption, and environmental measurements can be
+used to detect filter degradation patterns.
+
+Time-series forecasting models were tested to predict when
+filters should be replaced.
+
+
+## Technologies Used
+
+Python  
+Pandas  
+NumPy  
+Jupyter Notebooks  
+Time-series forecasting (TimeGPT)
 
 
 
